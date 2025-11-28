@@ -82,4 +82,4 @@ This project is open source and available under the MIT License.
 ## Acknowledgments
 
 - Uses OpenCV's Haar Cascade classifier for face detection
-- Arduino code based on standard stepper motor control patterns
+- Arduino code based on standard stepper motor control patterns                                                                                     
